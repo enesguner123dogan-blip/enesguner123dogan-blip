@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Enes Güner Doğan 👋
 
-<!--
-**enesguner123dogan-blip/enesguner123dogan-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Data Analyst with a strong mathematical foundation from Boğaziçi University. I specialize in quantitative problem-solving, predictive modeling, and transforming complex datasets into actionable business insights.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL
+- **Data Analytics / BI:** Tableau, BigQuery, Google Sheets / Excel
+- **Core Competencies:** Statistical Analysis, Probability Modeling, KPI Architecture, Quantitative Risk Assessment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Featured Projects
+1. **Credit Risk & Loan Default Prediction (Python):** A machine learning model using Logistic Regression to evaluate and forecast credit loan default probabilities.
+2. **E-Commerce Conversion Funnel Analysis (SQL & Tableau):** Full-funnel user behavior analysis tracking session-to-purchase drop-off metrics.
+3. **Marketing & Landing Page Performance Analytics (SQL & Python):** Statistical hypothesis testing and conversion analysis to optimize marketing budget allocations.
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/enes-g%C3%BCner-do%C4%9Fan/)
