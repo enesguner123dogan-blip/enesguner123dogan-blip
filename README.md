@@ -12,4 +12,6 @@ A Data Analyst with a strong mathematical foundation from Boğaziçi University.
 2. **E-Commerce Conversion Funnel Analysis (SQL & Tableau):** Full-funnel user behavior analysis tracking session-to-purchase drop-off metrics.
 3. **Marketing & Landing Page Performance Analytics (SQL & Python):** Statistical hypothesis testing and conversion analysis to optimize marketing budget allocations.
 
+4. - **Netflix SQL Analysis**: [SQL queries](https://github.com/enesguner123dogan-blip/netflix-sql-analysis) for content analysis (10 business questions)
+
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/enes-g%C3%BCner-do%C4%9Fan/)
